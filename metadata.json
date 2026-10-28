@@ -1,0 +1,6 @@
+{
+  "name": "麓境研選咖啡館 LuJing Specialty Coffee",
+  "description": "提供莊園級單品咖啡、產地豆種介紹、手作早午餐與甜點烘焙，並具備會員註冊集點、風味選豆測驗與線上點餐體驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
